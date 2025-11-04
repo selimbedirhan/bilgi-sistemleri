@@ -1,0 +1,11 @@
+# Veri setini ve büyük model dosyasını görmezden gel
+Alzheimers_Detection_dataset/
+*.h5
+
+# Python'un oluşturduğu gereksiz dosyalar
+__pycache__/
+*.pyc
+
+# Eğer sanal ortam kullanıyorsan
+venv/
+.venv/
